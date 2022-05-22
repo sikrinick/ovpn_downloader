@@ -1,6 +1,7 @@
 # OpenVPN configuration downloader for different providers
 Python scripts to download OpenVPN configurations of different VPN providers.  
 Useful for [db1000nX100](https://github.com/ihorlv/db1000nX100).
+Downloads configuration for all countries, except Ukraine-located servers.
 
 ## Supported providers
 - [Ghost Path](https://ghostpath.com/)
